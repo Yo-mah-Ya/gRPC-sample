@@ -1,0 +1,14 @@
+{
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/CVS": true,
+    "**/.DS_Store": true,
+    "bin": true
+  },
+  "go.goroot": "~/.goenv/versions/1.21.1",
+  "go.useLanguageServer": true,
+  "cSpell.enabled": true,
+  "cSpell.words": [],
+}
